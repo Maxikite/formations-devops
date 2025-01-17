@@ -1,0 +1,7 @@
+collections:
+  - azure.azcollection
+  - amazon.aws
+  - cisco.aci
+  - cisco.meraki
+  - netbox.netbox
+  - kubernetes.core

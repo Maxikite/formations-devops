@@ -1,0 +1,32 @@
+# Créer un fichier structure.yml (.yaml est accepté aussi).
+# Créer une entrée texte
+# Créer une liste
+# Créer un dictionnaire
+# Créer une liste de dictionnaire
+# Créer une structure imbriquée
+# Créer une liste de listes
+
+# Entrée texte
+prenom: Alex
+Nom: Alex
+
+# Création d'une liste
+liste_de_courses:
+  - shampooing
+  - deo
+
+# Dictionnaire
+numéro_de_téléphone:
+  { alex: 06.00.00.00.00 }
+
+# Liste de dictionnaire
+vlans:
+  - { nom: test,   vlan_id: 601 }
+  - { nom: bureau, vlan_id: 602 }
+
+# Liste de liste
+Liste_de_liste:
+  - [1,2,3]
+  - [1,2,3]
+  - [1,2,3]
+
